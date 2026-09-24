@@ -35,7 +35,15 @@ Key findings and business insights will be documented based on the results obtai
 ## 📁 Project Files
 
 - `Ventas KEBAB mejorado.xlsx` — Excel analysis and dashboard.
+## 📊 Dashboard
 
+### Dashboard — Part 1
+
+![Kebab Sales Dashboard - Part 1](dashboard%20kebab1.png)
+
+### Dashboard — Part 2
+
+![Kebab Sales Dashboard - Part 2](dashboard%20kebab2.png)
 ---
 
 ### 👤 Author
